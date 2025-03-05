@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacobo Ospina</h1>
-<h3 align="center">Recent graduate in software development and passionate about creating innovative and practical software.</h3>
+<h3 align="center">software developer and passionate about creating innovative and practical software.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
